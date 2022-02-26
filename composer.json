@@ -1,5 +1,5 @@
 {
-    "name": "roboticsexpert/balance-manager",
+    "name": "azibom/balance-manager",
     "description": "Add balance (credit) for your users easily",
     "type": "library",
     "license": "MIT",
@@ -18,7 +18,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "BalanceManagerServiceProvider"
+                "Roboticsexpert\\BalanceManager\\BalanceManagerServiceProvider"
             ]
         }
     },
